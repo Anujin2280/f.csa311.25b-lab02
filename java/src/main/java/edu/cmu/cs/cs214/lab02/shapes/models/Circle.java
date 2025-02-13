@@ -1,4 +1,6 @@
-package edu.cmu.cs.cs214.lab02.shapes;
+package edu.cmu.cs.cs214.lab02.shapes.models;
+
+import edu.cmu.cs.cs214.lab02.shapes.interfaces.Shape;
 
 public class Circle implements Shape {
     private double radius;

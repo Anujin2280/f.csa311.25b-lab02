@@ -1,9 +1,10 @@
 package edu.cmu.cs.cs214.lab02;
 
-import edu.cmu.cs.cs214.lab02.shapes.Circle;
-import edu.cmu.cs.cs214.lab02.shapes.Rectangle;
-import edu.cmu.cs.cs214.lab02.shapes.Shape;
-import edu.cmu.cs.cs214.lab02.shapes.Square;
+import edu.cmu.cs.cs214.lab02.shapes.interfaces.Shape;
+import edu.cmu.cs.cs214.lab02.shapes.models.Circle;
+import edu.cmu.cs.cs214.lab02.shapes.models.Rectangle;
+import edu.cmu.cs.cs214.lab02.shapes.models.Square;
+import edu.cmu.cs.cs214.lab02.shapes.utils.Renderer;
 
 public class Main {
     public static void main(String[] args) {

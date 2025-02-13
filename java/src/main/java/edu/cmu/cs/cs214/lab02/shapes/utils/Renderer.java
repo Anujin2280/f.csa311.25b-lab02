@@ -1,6 +1,6 @@
-package edu.cmu.cs.cs214.lab02;
+package edu.cmu.cs.cs214.lab02.shapes.utils;
 
-import edu.cmu.cs.cs214.lab02.shapes.Shape;
+import edu.cmu.cs.cs214.lab02.shapes.interfaces.Shape;
 
 public class Renderer {
      private Shape shape;
