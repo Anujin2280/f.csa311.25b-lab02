@@ -12,5 +12,6 @@ public class Renderer {
     public void draw() {
         shape.draw();
         System.out.println("Its area is " + shape.getArea());
+        System.out.println("Its over");
     }
 }
