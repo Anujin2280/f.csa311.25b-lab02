@@ -1,4 +1,4 @@
-  - name: ShineAction
+  name: ShineAction
   uses: actions/checkout@v4.2.2
   with:
     # Repository name with owner. For example, actions/checkout
